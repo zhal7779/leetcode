@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/zhal7779/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
 |  |
 | ------- |
