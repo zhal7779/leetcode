@@ -63,4 +63,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/zhal7779/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/zhal7779/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
