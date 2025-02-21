@@ -66,9 +66,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/zhal7779/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0908-middle-of-the-linked-list](https://github.com/zhal7779/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/zhal7779/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/zhal7779/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
