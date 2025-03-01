@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/zhal7779/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2551-apply-operations-to-an-array](https://github.com/zhal7779/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/zhal7779/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/zhal7779/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zhal7779/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/zhal7779/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/zhal7779/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
