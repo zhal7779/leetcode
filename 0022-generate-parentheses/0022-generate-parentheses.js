@@ -16,7 +16,7 @@ var generateParenthesis = function(n) {
             return answer.push(combination);
         };
         
-        if(leftPair === rightPair || leftPair < n ) {
+        if(leftPair < n ) {
             recursion(L + 1 , leftPair+1, rightPair, combination + '(');
         }
 
