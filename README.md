@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zhal7779/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zhal7779/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/zhal7779/leetcode/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zhal7779/leetcode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
