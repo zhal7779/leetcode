@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zhal7779/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/zhal7779/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zhal7779/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zhal7779/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/zhal7779/leetcode/tree/master/0022-generate-parentheses) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zhal7779/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
 | ------- |
@@ -128,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zhal7779/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zhal7779/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
