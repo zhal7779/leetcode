@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zhal7779/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zhal7779/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/zhal7779/leetcode/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/zhal7779/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/zhal7779/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
@@ -134,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zhal7779/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
