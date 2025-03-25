@@ -39,11 +39,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/zhal7779/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/zhal7779/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/zhal7779/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zhal7779/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zhal7779/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zhal7779/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/zhal7779/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zhal7779/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Linked List
