@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/zhal7779/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/zhal7779/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/zhal7779/leetcode/tree/master/0062-unique-paths) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zhal7779/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/zhal7779/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -147,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/zhal7779/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
