@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zhal7779/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/zhal7779/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zhal7779/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/zhal7779/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/zhal7779/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zhal7779/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/zhal7779/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zhal7779/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/zhal7779/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -153,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/zhal7779/leetcode/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/zhal7779/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/zhal7779/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
