@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/zhal7779/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/zhal7779/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/zhal7779/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/zhal7779/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zhal7779/leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/zhal7779/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/zhal7779/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zhal7779/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/zhal7779/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/zhal7779/leetcode/tree/master/0062-unique-paths) |
 | [0539-minimum-time-difference](https://github.com/zhal7779/leetcode/tree/master/0539-minimum-time-difference) |
 ## String
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/zhal7779/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Combinatorics
 |  |
