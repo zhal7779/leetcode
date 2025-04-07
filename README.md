@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/zhal7779/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zhal7779/leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/zhal7779/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/zhal7779/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/zhal7779/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/zhal7779/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/zhal7779/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zhal7779/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zhal7779/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/zhal7779/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/zhal7779/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/zhal7779/leetcode/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
